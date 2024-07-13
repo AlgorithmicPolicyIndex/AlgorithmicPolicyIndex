@@ -1,16 +1,17 @@
-## Hi there 👋
+# API
+I am Jeremy, or Kaylee online, or as per my brand AlgorithmicPolicyIndex or API for short. Too many names I know  
+I came up with API, because I wanted to make something uinque to me, a name that is based on hobbies, API was a funny coincidence because I did not plan for it to shorten to API.  
 
-<!--
-**AlgorithmicPolicyIndex/AlgorithmicPolicyIndex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Projects
+- [NovelCord](https://github.com/AlgorithmicPolicyIndex/NovelCord) (Deprecated for Account issues)
+  - A Discord bot that integrates NovelAi into your server.
+- [ChatPlays](https://github.com/AlgorithmicPolicyIndex/ChatPlays) (Based on DougDougs "Twitch Plays" Python Code)
+  - A stream Chat overlay
+  - A input handler to allow your Chat to take control of your game
+- [Monorewrite](https://github.com/AlgorithmicPolicyIndex/MonoRewrite)
+  - A Discord bot that is to be a custom Danganronpa game for a friend of mine
+ 
+# Socials
+[Twitch](https://www.twitch.tv/algorithmicpolicyindex)
+[Youtube](https://www.youtube.com/@AlgorithmicPolicyIndex)
+[Discord](https://discord.gg/zNnHascfmU)
