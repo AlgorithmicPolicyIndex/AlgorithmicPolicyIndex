@@ -7,7 +7,7 @@ I came up with API, because I wanted to make something uinque to me, a name that
 - [ChatPlays](https://github.com/AlgorithmicPolicyIndex/ChatPlays) (Based on DougDougs "Twitch Plays" Python Code)
   - A stream Chat overlay
   - A input handler to allow your Chat to take control of your game
-- [VRChatOSC]([https://github.com/AlgorithmicPolicyIndex/MonoRewrite](https://github.com/AlgorithmicPolicyIndex/VRChatOSC))
+- [VRChatOSC](https://github.com/AlgorithmicPolicyIndex/VRChatOSC)
   - Light weight Typescript project, interacts with VRChat to create Now Playing messages using templates via the OSC /chatbox endpoint
 - ~~[NovelCord](https://github.com/AlgorithmicPolicyIndex/NovelCord)~~ (Archived)
   - A Discord bot that integrates NovelAi into your server.
