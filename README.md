@@ -12,6 +12,12 @@ I came up with API, because I wanted to make something uinque to me, a name that
 - ~~[NovelCord](https://github.com/AlgorithmicPolicyIndex/NovelCord)~~ (Archived)
   - A Discord bot that integrates NovelAi into your server.
   - Lacks many features.
+
+- NovelCord-API **WIP**
+    - Writing an Up-to-date NovelAi handler in TypeScript to teplace older outdated ir Image only generation APIs.
+    - This is to actually starr NovelCord again, with a proper API, instead of transfering data between TS and Py.
+    - Has Editor V2 Support unlike ither APIs that are unable to Decrypt the StoryContent Document object.
+    - My first API Handler, will be organized before uploading here, Documentation will come after upload when time is available.
  
 # Socials
 [Twitch](https://www.twitch.tv/algorithmicpolicyindex)
